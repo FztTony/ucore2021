@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/stddef.h
+
+../include/stdio.h
+
+../include/unistd.h
+stddef.h
+../include/stddef.h
+
+/home/tonyfu/riscv/ucore-Tutorial/user/src/hello.c
+stdio.h
+-
+unistd.h
+-
+

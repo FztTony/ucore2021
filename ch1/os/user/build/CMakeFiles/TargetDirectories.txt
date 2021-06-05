@@ -1,0 +1,13 @@
+/home/tonyfu/riscv/ucore-Tutorial/user/build/CMakeFiles/rebuild_cache.dir
+/home/tonyfu/riscv/ucore-Tutorial/user/build/CMakeFiles/edit_cache.dir
+/home/tonyfu/riscv/ucore-Tutorial/user/build/CMakeFiles/pipetest.dir
+/home/tonyfu/riscv/ucore-Tutorial/user/build/CMakeFiles/matrix.dir
+/home/tonyfu/riscv/ucore-Tutorial/user/build/CMakeFiles/hello.dir
+/home/tonyfu/riscv/ucore-Tutorial/user/build/CMakeFiles/getchar_simple.dir
+/home/tonyfu/riscv/ucore-Tutorial/user/build/CMakeFiles/exec_simple.dir
+/home/tonyfu/riscv/ucore-Tutorial/user/build/CMakeFiles/ulib.dir
+/home/tonyfu/riscv/ucore-Tutorial/user/build/CMakeFiles/forktest_simple.dir
+/home/tonyfu/riscv/ucore-Tutorial/user/build/CMakeFiles/exit.dir
+/home/tonyfu/riscv/ucore-Tutorial/user/build/CMakeFiles/user_shell.dir
+/home/tonyfu/riscv/ucore-Tutorial/user/build/CMakeFiles/forktest2.dir
+/home/tonyfu/riscv/ucore-Tutorial/user/build/CMakeFiles/forktest.dir

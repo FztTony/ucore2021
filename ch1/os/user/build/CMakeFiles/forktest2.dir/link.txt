@@ -1,0 +1,1 @@
+riscv64-linux-musl-gcc -march=rv64imac -mabi=lp64 -mcmodel=medany -fno-builtin -nostdinc -fno-stack-protector -ggdb -Wall -O3 -DNDEBUG  -nostdlib  -nostdlib -nostdlib -N -T /home/tonyfu/riscv/ucore-Tutorial/user/lib/arch/riscv/user.ld CMakeFiles/forktest2.dir/src/forktest2.c.o  -o riscv64/forktest2 libulib.a 

@@ -1,0 +1,1 @@
+panic.o: panic.c
